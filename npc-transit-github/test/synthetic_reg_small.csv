@@ -1,0 +1,8 @@
+id,pdb_file,y,stokes_nm,source_doi,assay,notes
+synth0,synth0.pdb,-2.3261,,NONE,SYNTHETIC SOFTWARE TEST ONLY,not real data
+synth1,synth1.pdb,-2.3680,,NONE,SYNTHETIC SOFTWARE TEST ONLY,not real data
+synth2,synth2.pdb,-8.7126,,NONE,SYNTHETIC SOFTWARE TEST ONLY,not real data
+synth3,synth3.pdb,-3.5750,,NONE,SYNTHETIC SOFTWARE TEST ONLY,not real data
+synth4,synth4.pdb,-2.2037,,NONE,SYNTHETIC SOFTWARE TEST ONLY,not real data
+synth5,synth5.pdb,-3.9086,,NONE,SYNTHETIC SOFTWARE TEST ONLY,not real data
+synth6,synth6.pdb,-3.9321,,NONE,SYNTHETIC SOFTWARE TEST ONLY,not real data

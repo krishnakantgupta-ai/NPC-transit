@@ -1,0 +1,12 @@
+# Rename to CITATION.cff after filling in. GitHub then shows a "Cite this repository" button.
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "NPC-Transit"
+version: "0.4"
+date-released: "YYYY-MM-DD"
+authors:
+  - family-names: "FILL IN"
+    given-names: "FILL IN"
+    affiliation: "FILL IN"
+repository-code: "https://github.com/<user>/npc-transit"
+doi: "FILL IN AFTER ZENODO RELEASE"

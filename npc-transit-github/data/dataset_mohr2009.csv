@@ -1,0 +1,14 @@
+# Mohr et al. 2009 EMBO J 28:2541, Table 1 (values transcribed from the published table).
+# y = ln(q), q = k_i / k_thioredoxin (permeabilised HeLa nuclei, confocal time-lapse). Excluded (no structure): fluorescein-Cys (q=46), 11 aa peptide (q=26).
+# Fill in/verify every pdb_file before use. Blank y = not scored.
+id,pdb_file,y,q,q_sd,stokes_nm,source_doi,assay,notes
+insulin,pdb/INSULIN.pdb,2.46810,11.8,1.31,1.19,10.1038/emboj.2009.200,permeabilised HeLa confocal time-lapse,supply human insulin PDB (rename file); verify construct
+aprotinin,pdb/5PTI.pdb,1.44692,4.25,0.58,1.48,10.1038/emboj.2009.200,permeabilised HeLa confocal time-lapse,bovine; verify PDB title
+profilin1,pdb/PROFILIN1.pdb,0.99325,2.7,0.4,1.65,10.1038/emboj.2009.200,permeabilised HeLa confocal time-lapse,supply human profilin 1 PDB; verify construct
+ubiquitin,pdb/1UBQ.pdb,0.55962,1.75,0.28,1.69,10.1038/emboj.2009.200,permeabilised HeLa confocal time-lapse,bovine/human identical sequence
+z-domain,pdb/2SPZ.pdb,0.68310,1.98,0.28,1.71,10.1038/emboj.2009.200,permeabilised HeLa confocal time-lapse,Protein A Z domain; verify PDB title
+thioredoxin,pdb/2TRX.pdb,,,,1.97,10.1038/emboj.2009.200,permeabilised HeLa confocal time-lapse,REFERENCE PROBE: q = 1 by definition, y left blank so it is not scored
+lactalbumin,pdb/LACTALBUMIN.pdb,-0.34672,0.707,0.012,2.07,10.1038/emboj.2009.200,permeabilised HeLa confocal time-lapse,supply bovine alpha-lactalbumin PDB
+GFP,pdb/1EMA.pdb,-2.29263,0.101,0.014,2.42,10.1038/emboj.2009.200,permeabilised HeLa confocal time-lapse,Mohr used enhanced GFP; 1EMA is wild-type GFP - prefer an EGFP entry if available
+PBP,pdb/PBP.pdb,-4.37406,0.0126,0.0071,2.75,10.1038/emboj.2009.200,permeabilised HeLa confocal time-lapse,supply E. coli phosphate-binding protein PDB
+MBP,pdb/1ANF.pdb,-4.51899,0.0109,0.0028,2.85,10.1038/emboj.2009.200,permeabilised HeLa confocal time-lapse,E. coli maltose-binding protein
